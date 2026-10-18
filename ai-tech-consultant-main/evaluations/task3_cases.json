@@ -1,0 +1,22 @@
+[
+  {"id":"ms-01","previous":["Login"],"updated":["Login","Cart"],"expected_added":["Cart"]},
+  {"id":"ms-02","previous":["Billing"],"updated":["Billing","Refunds"],"expected_added":["Refunds"]},
+  {"id":"ms-03","previous":["Search"],"updated":["Search","Filters"],"expected_added":["Filters"]},
+  {"id":"ms-04","previous":["Reports"],"updated":["Reports","Exports"],"expected_added":["Exports"]},
+  {"id":"ms-05","previous":["Notifications"],"updated":["Notifications","SMS"],"expected_added":["SMS"]},
+  {"id":"ms-06","previous":["Dashboard"],"updated":["Dashboard","Analytics"],"expected_added":["Analytics"]},
+  {"id":"ms-07","previous":["Roles"],"updated":["Roles","Permissions"],"expected_added":["Permissions"]},
+  {"id":"ms-08","previous":["Profile"],"updated":["Profile","Avatar"],"expected_added":["Avatar"]},
+  {"id":"ms-09","previous":["Domain"],"updated":["Domain","DNS"],"expected_added":["DNS"]},
+  {"id":"ms-10","previous":["Catalog"],"updated":["Catalog","Wishlist"],"expected_added":["Wishlist"]},
+  {"id":"ms-11","previous":["Payments"],"updated":["Payments","Coupons"],"expected_added":["Coupons"]},
+  {"id":"ms-12","previous":["Orders"],"updated":["Orders","Returns"],"expected_added":["Returns"]},
+  {"id":"ms-13","previous":["Membership"],"updated":["Membership","Renewal"],"expected_added":["Renewal"]},
+  {"id":"ms-14","previous":["Images"],"updated":["Images","Video"],"expected_added":["Video"]},
+  {"id":"ms-15","previous":["SEO"],"updated":["SEO","Sitemap"],"expected_added":["Sitemap"]},
+  {"id":"ms-16","previous":["Backups"],"updated":["Backups","Restore"],"expected_added":["Restore"]},
+  {"id":"ms-17","previous":["API"],"updated":["API","Webhooks"],"expected_added":["Webhooks"]},
+  {"id":"ms-18","previous":["Search"],"updated":["Search","Autocomplete"],"expected_added":["Autocomplete"]},
+  {"id":"ms-19","previous":["Theme"],"updated":["Theme","Dark mode"],"expected_added":["Dark mode"]},
+  {"id":"ms-20","previous":["Support"],"updated":["Support","Live chat"],"expected_added":["Live chat"]}
+]

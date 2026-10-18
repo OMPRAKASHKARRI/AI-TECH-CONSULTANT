@@ -1,0 +1,22 @@
+[
+  {"id":"in-01","subject":"Duplicate charge","body":"I was charged twice this month.","expected_category":"Billing","expected_urgency":"High"},
+  {"id":"in-02","subject":"Refund status","body":"Can you explain my refund status?","expected_category":"Billing","expected_urgency":"Medium"},
+  {"id":"in-03","subject":"Invoice copy","body":"Please send me a copy of my invoice.","expected_category":"Billing","expected_urgency":"Low"},
+  {"id":"in-04","subject":"Cannot log in","body":"I cannot log in after resetting my password.","expected_category":"Technical Support","expected_urgency":"Medium"},
+  {"id":"in-05","subject":"Site unavailable","body":"Our public website is down and this is urgent.","expected_category":"Bug Report","expected_urgency":"High"},
+  {"id":"in-06","subject":"Feature request","body":"Could you add CSV export to reports?","expected_category":"Feature Request","expected_urgency":"Low"},
+  {"id":"in-07","subject":"New account","body":"How do I set up a new account?","expected_category":"Account Setup","expected_urgency":"Low"},
+  {"id":"in-08","subject":"Broken page","body":"The page returns an error when I save.","expected_category":"Bug Report","expected_urgency":"Medium"},
+  {"id":"in-09","subject":"Billing address","body":"I need to update the billing address.","expected_category":"Billing","expected_urgency":"Medium"},
+  {"id":"in-10","subject":"Lost access","body":"URGENT: I lost access to the account before a client demo.","expected_category":"Technical Support","expected_urgency":"High"},
+  {"id":"in-11","subject":"Domain setup","body":"How do I configure my domain?","expected_category":"Account Setup","expected_urgency":"Medium"},
+  {"id":"in-12","subject":"Export request","body":"Please add a report export feature.","expected_category":"Feature Request","expected_urgency":"Low"},
+  {"id":"in-13","subject":"Crash on save","body":"The app crashes whenever I save changes.","expected_category":"Bug Report","expected_urgency":"Medium"},
+  {"id":"in-14","subject":"Account onboarding","body":"I need help setting up the account.","expected_category":"Account Setup","expected_urgency":"Medium"},
+  {"id":"in-15","subject":"General question","body":"I have a question that is not about a specific feature.","expected_category":"Other","expected_urgency":"Low"},
+  {"id":"in-16","subject":"Login blocked","body":"The login issue is blocking our work today.","expected_category":"Technical Support","expected_urgency":"High"},
+  {"id":"in-17","subject":"Receipt","body":"Could I get a receipt for last month's payment?","expected_category":"Billing","expected_urgency":"Low"},
+  {"id":"in-18","subject":"Unexpected error","body":"I see an unexpected error while editing a listing.","expected_category":"Bug Report","expected_urgency":"Medium"},
+  {"id":"in-19","subject":"Refund policy","body":"What is the refund policy for this plan?","expected_category":"Billing","expected_urgency":"Medium"},
+  {"id":"in-20","subject":"Potential security issue","body":"I think another user can see my account data.","expected_category":"Technical Support","expected_urgency":"High"}
+]

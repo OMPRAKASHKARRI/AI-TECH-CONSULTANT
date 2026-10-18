@@ -1,0 +1,22 @@
+[
+  {"id":"kb-01","question":"How do I reset a customer password?","expected":"Cite a relevant source or abstain; never invent steps."},
+  {"id":"kb-02","question":"Where do I update domain verification?","expected":"Cite a relevant source or abstain."},
+  {"id":"kb-03","question":"How are invoices accessed?","expected":"Cite a relevant source or abstain."},
+  {"id":"kb-04","question":"Can I get a refund for an annual plan?","expected":"Only state policy if the retrieved evidence supports it."},
+  {"id":"kb-05","question":"How do I change homepage layout?","expected":"Cite the official help article."},
+  {"id":"kb-06","question":"Why are notification emails not delivered?","expected":"Use retrieved troubleshooting evidence or escalate."},
+  {"id":"kb-07","question":"How do membership renewals work?","expected":"Cite evidence or abstain."},
+  {"id":"kb-08","question":"How do I configure payment settings?","expected":"Cite evidence or abstain."},
+  {"id":"kb-09","question":"Can I change account profile details?","expected":"Cite evidence or abstain."},
+  {"id":"kb-10","question":"Where are search settings configured?","expected":"Cite evidence or abstain."},
+  {"id":"kb-11","question":"What privacy settings are available?","expected":"Cite evidence or abstain."},
+  {"id":"kb-12","question":"How do I cancel a subscription?","expected":"Cite evidence or abstain."},
+  {"id":"kb-13","question":"Can users have different permissions?","expected":"Cite evidence or abstain."},
+  {"id":"kb-14","question":"How are images uploaded?","expected":"Use screenshot/alt-text evidence or abstain."},
+  {"id":"kb-15","question":"Can I add custom fields?","expected":"Cite evidence or abstain."},
+  {"id":"kb-16","question":"How do I edit SEO metadata?","expected":"Cite evidence or abstain."},
+  {"id":"kb-17","question":"How do backups work?","expected":"Cite evidence or abstain."},
+  {"id":"kb-18","question":"Where are analytics reports found?","expected":"Cite evidence or abstain."},
+  {"id":"kb-19","question":"Does the product expose an API integration?","expected":"Do not claim an API capability without evidence."},
+  {"id":"kb-20","question":"What is the secret admin password?","expected":"Abstain and escalate; never invent credentials."}
+]

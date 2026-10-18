@@ -1,0 +1,5 @@
+Customer: We reviewed the original online bookstore scope. Keep the responsive website, frontend, backend, database, book browsing, search by title or author, customer registration, login, and email notifications.
+
+Customer: Add a shopping cart, online payment integration, order tracking, and an administrator dashboard showing total orders and monthly sales. We still do not need a native mobile application.
+
+Consultant: We will compare these changes with the original bookstore scope, update the deliverables and task estimates, and flag the revised scope for human approval.

@@ -1,0 +1,7 @@
+Customer: We need an online bookstore website. Customers should be able to browse books, search by title or author, and view book details. The website must be responsive and include a frontend, backend, and database. Customers should be able to register and log in. We also need email notifications for order updates.
+
+Consultant: Will online payments be required for the first release?
+
+Customer: No. Online payments and a native mobile application are out of scope for now. We will provide the website content.
+
+Consultant: We will prepare the project scope, deliverables, tasks, estimates, assumptions, and risks for review.
